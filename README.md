@@ -8,7 +8,7 @@ as PNG, PDF, EPS, SVG, and a variety of other useful file formats.
 An example FSA diagram that describes a machine that only accepts
 `a*b*` is shown below.
 
-![A's before B's](https://raw.githubusercontent.com/wiki/markroyer/dia-fsa-sheet/as_before_bs.svg
+![A's before B's](http://rawgit.com/wiki/markroyer/dia-fsa-sheet/as_before_bs.svg
  "a*b*")
 
 ## Setup
