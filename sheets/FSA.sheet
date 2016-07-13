@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>FSA</name>
+  <description>Finite State Automaton.</description>
+  <contents>
+    <object name="FSA - State">
+      <description>Non-Accepting State</description>
+    </object>
+    <object name="FSA - State Accepting">
+      <description>Accepting State</description>
+    </object>
+  </contents>
+</sheet>
