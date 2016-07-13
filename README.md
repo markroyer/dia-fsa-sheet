@@ -1,6 +1,15 @@
 # dia-fsa-sheet
 
 A *very simple* sheet extension for finite state machines in Dia.
+This can be useful if you want to further manipulate the machine
+programmatically later.  Dia files are saved as XML and can be exported
+as PNG, PDF, EPS, SVG, and a variety of other useful file formats.
+
+An example FSA diagram that describes a machine that only accepts
+`a*b*` is shown below.
+
+![A's before B's](https://raw.githubusercontent.com/wiki/markroyer/dia-fsa-sheet/as_before_bs.svg
+ "a*b*")
 
 ## Setup
 
